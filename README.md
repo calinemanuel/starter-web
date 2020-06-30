@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 ewqe
 ## Purpose
 
-S
+Sewqeqewq
 
 
 ample websiteenty of files for demos
